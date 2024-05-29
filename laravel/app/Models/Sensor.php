@@ -13,5 +13,3 @@ class Sensor extends Model
     protected $primary = 'id';
     protected $fillable = ['suhu', 'kelembapan', 'api', 'asap', 'motion', 'pintu', 'buzzer'];
 }
-
-#eifhesoifheruoghwreuoruoghrweuiobwfbeifbegiwreb
